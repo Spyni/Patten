@@ -1,0 +1,15 @@
+D:\Working Project\Practice\Patten\Patten2\bin\Debug\net6.0\Patten2.exe
+D:\Working Project\Practice\Patten\Patten2\bin\Debug\net6.0\Patten2.deps.json
+D:\Working Project\Practice\Patten\Patten2\bin\Debug\net6.0\Patten2.runtimeconfig.json
+D:\Working Project\Practice\Patten\Patten2\bin\Debug\net6.0\Patten2.dll
+D:\Working Project\Practice\Patten\Patten2\bin\Debug\net6.0\Patten2.pdb
+D:\Working Project\Practice\Patten\Patten2\obj\Debug\net6.0\Patten2.csproj.AssemblyReference.cache
+D:\Working Project\Practice\Patten\Patten2\obj\Debug\net6.0\Patten2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working Project\Practice\Patten\Patten2\obj\Debug\net6.0\Patten2.AssemblyInfoInputs.cache
+D:\Working Project\Practice\Patten\Patten2\obj\Debug\net6.0\Patten2.AssemblyInfo.cs
+D:\Working Project\Practice\Patten\Patten2\obj\Debug\net6.0\Patten2.csproj.CoreCompileInputs.cache
+D:\Working Project\Practice\Patten\Patten2\obj\Debug\net6.0\Patten2.dll
+D:\Working Project\Practice\Patten\Patten2\obj\Debug\net6.0\refint\Patten2.dll
+D:\Working Project\Practice\Patten\Patten2\obj\Debug\net6.0\Patten2.pdb
+D:\Working Project\Practice\Patten\Patten2\obj\Debug\net6.0\Patten2.genruntimeconfig.cache
+D:\Working Project\Practice\Patten\Patten2\obj\Debug\net6.0\ref\Patten2.dll
